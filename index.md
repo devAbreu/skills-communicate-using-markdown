@@ -13,3 +13,6 @@ for(let i = 0; i > fruits.length; i++){
   console.log(`Fruit name: ${fruits[i]}`);
 }
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
